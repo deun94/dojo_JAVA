@@ -1,0 +1,7 @@
+package com.moon.ordersanditems;
+
+public class Item {
+	public String name;
+	
+	public double price;
+}
